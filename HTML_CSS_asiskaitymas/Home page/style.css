@@ -8,11 +8,11 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 30px 10%;
+  padding: 30px 5%;
   box-shadow: #000000;
 }
 
-.nav-link, .log_in_button {
+.nav__link, .log_in_button {
   font-size: 16px;
   cursor: pointer;
 }
@@ -51,7 +51,7 @@ body {
 
 .keliones_paieska {
   margin: auto;
-  width: 350px;
+  width: 400px;
   align-items: center;
   border: #FFC107 solid 40px;
   background-color: #FFC107;
